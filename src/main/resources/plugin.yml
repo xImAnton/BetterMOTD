@@ -1,0 +1,6 @@
+name: BetterMOTD
+version: ${project.version}
+main: de.ximanton.bettermotd.Main
+api-version: 1.16
+authors: [xImAnton_]
+description: A plugin for customizing your MOTD with dynamic values from your Minecraft SMP World
